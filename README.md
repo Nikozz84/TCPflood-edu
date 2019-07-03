@@ -1,8 +1,8 @@
 # TCPflood-edu
 Simple TCP flooder
 
-Wellcome to the Doser flood script. First of all you need to choose IP (-d) and
-port (-p) of the victim machine.Argument -p is optional , you can leave this
+Wellcome to the Doser flood script. For using this script you have to choose IP (-d) and
+port (-p) on the victim machine. Argument -p is optional , you can leave this
 field empty and port will be setted automaticly to http (80).
 
 optional arguments:
